@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to setup SDRsharp in WINE"
-date:   2016-04-08 20:00:39 +0200
+date:   2012-01-08 20:00:39 +0200
 categories: RTL-SDR radio
 ---
 
